@@ -10,6 +10,3 @@ pip install --editable .
 my_py_cli       
 Hello World!
 ```
-
-
-

@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'my_py_cli = my_py_cli:hello',
+            'my_py_cli = my_py_cli:cli',
         ],
     },
 )
